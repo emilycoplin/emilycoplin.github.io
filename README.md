@@ -8,6 +8,6 @@ My name is Emily Coplin and I am a first year student in the College of Arts and
 
 I grew up in Newark, New Jersey and I have lived here all my life. Although I love New Jersey and my community, I have big dreams to travel the world and explore different cultures. My ultimate goal is to travel to Italy and learn about their culture. When I am not in school, some of my hobbies include painting and listening to music. I also enjoy spending time with my family and friends on the weekends.
 
-### Follow Me On Social Media! ![](https://lh3.googleusercontent.com/proxy/tVkltcJPLVxjiM-zs6kG7RJD-ppTs3NZXwMfjJYepPbM-M6WMdzEer6320gEkREPMFbe84KiMqF0rNYRYvG6V2AqsAW9XC7wzeRxON9PAKfCsTO1LLvGyGnHb_qAP-EJ5zYjfkuFRheVCzSedBcZ)
+### Follow Me On Social Media! 
 
 [My Instagram](https://www.instagram.com/ylimeeeeeee/)
