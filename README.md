@@ -16,7 +16,7 @@ Some of my work experience includes internships at the Greater Newark Conservanc
 
 Throughout high school, I joined several clubs and extracurricular activities in order to discover new things that I enjoyed. This included National Honors Society in which we focused on community service and ways to give back, Arts Society where we designed clothes and learned how to do makeup, and Six String Companion where I learned to play guitar.
 
-I also took a total of nine advanced placement classes and explored many options as to what I would like to major in once I get to college and what career I would choose when I'm older. This included a wide range of humanities and STEM courses. I am currently undecided in my major, hoowever, I am interested in both design and architecture. Despite these specific interests, I still want to go through college exploreing my many possibilities and enjoy them. 
+I also took a total of nine advanced placement classes and explored many options as to what I would like to major in once I get to college and what career I would choose when I'm older. This included a wide range of humanities and STEM courses. I am currently undecided in my major, however, I am interested in both design and architecture. Despite these specific interests, I still want to go through college exploring my many possibilities and enjoy them. 
 
 ### Follow Me On Social Media! 
 
