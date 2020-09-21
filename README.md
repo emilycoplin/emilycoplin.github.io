@@ -14,4 +14,4 @@ Throughout high school, I took a total of nine advanced placement classes and ex
 
 ### Follow Me On Social Media! 
 
-![]() [My Instagram](https://www.instagram.com/ylimeeeeeee/)
+![](https://github.com/emilycoplin/emilycoplin.github.io/blob/master/ig.jpeg?raw=true) [My Instagram](https://www.instagram.com/ylimeeeeeee/)
