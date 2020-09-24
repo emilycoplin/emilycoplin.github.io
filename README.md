@@ -21,3 +21,7 @@ I also took a total of nine advanced placement classes and explored many options
 ### Follow Me On Social Media! 
 
 ![](https://github.com/emilycoplin/emilycoplin.github.io/blob/master/instagram.jpeg?raw=true) [My Instagram](https://www.instagram.com/ylimeeeeeee/)
+
+# Student Enrollment at Lehigh University
+
+![Student Enrollment At Lehigh](https://github.com/emilycoplin/emilycoplin.github.io/blob/master/Student%20Enrollment%20At%20Lehigh.png?raw=true)
