@@ -24,6 +24,8 @@ I also took a total of nine advanced placement classes and explored many options
 
 # Student Enrollment at Lehigh University
 
+This infographic shows the amount of first year students within each college from the Office of Institutional Research & Strategic Analysis. Based on the data, the college with the greatest amount of students is the College of Arts & Sciences, while the one with the lowest amount of students is Arts/ Engineering.
+
 ![Student Enrollment At Lehigh](https://github.com/emilycoplin/emilycoplin.github.io/blob/master/Student%20Enrollment%20At%20Lehigh.png?raw=true)
 
-This infographic shows the amount of first year students within each college. Based on the data, the college with the greatest amount of students is the College of Arts & Sciences, while the one with the lowest is Arts/ Engineering.
+[Source](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
