@@ -29,3 +29,5 @@ This infographic shows the amount of first year students within each college fro
 ![Student Enrollment At Lehigh](https://github.com/emilycoplin/emilycoplin.github.io/blob/master/Student%20Enrollment%20At%20Lehigh.png?raw=true)
 
 [Source](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
+
+![Percent of Adults Aged 18 Years and Older Who Have Obesity in the U.S.](https://github.com/emilycoplin/emilycoplin.github.io/blob/master/Percent%20of%20Adults%20Aged%2018%20Years%20and%20Older%20Who%20Have%20Obesity.png?raw=true)
