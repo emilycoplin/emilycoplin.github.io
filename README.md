@@ -32,7 +32,7 @@ This infographic shows the amount of first year students within each college fro
 
 # Percent of Adults Aged 18 Years and Older Who Have Obesity in the U.S.
 
-This inforgraphic shows the total percentage of adults from the age of 18 and over, who are obese, starting from the year 2011 up until the year 2018. The data demonstrates a steady increase in the obesity rate among adults.
+This inforgraphic shows the total percentage of adults from the age of 18 and over, who are obese, starting from the year 2011 up until the year 2018. This information comes from the Behavioral Risk Factor Surveillance System, part of the Center for Disease Control and Prevention. The data demonstrates a steady increase in the obesity rate among adults.
 
 ![Percent of Adults Aged 18 Years and Older Who Have Obesity in the U.S.](https://github.com/emilycoplin/emilycoplin.github.io/blob/master/Percent%20of%20Adults%20Aged%2018%20Years%20and%20Older%20Who%20Have%20Obesity.png?raw=true)
 
