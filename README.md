@@ -41,3 +41,6 @@ This inforgraphic shows the total percentage of adults from the age of 18 and ov
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1BKHMZEpmxYJ2EvUEbFQJEzIwZMGA0INuNs19kABLUqo&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1paPXmq14sgPYrpbQbDC-TreNpOqX9fgXKokm7nTpDwk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+![Fall 2019 Institutional Profile]
+(https://github.com/emilycoplin/emilycoplin.github.io/blob/master/Fall_2019_Institutional_Profile_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
