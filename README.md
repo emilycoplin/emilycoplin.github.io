@@ -45,3 +45,5 @@ This inforgraphic shows the total percentage of adults from the age of 18 and ov
 # Fall 2019 Institutional Profile
 
 ![Fall 2019 Institutional Profile](https://github.com/emilycoplin/emilycoplin.github.io/blob/master/Fall_2019_Institutional_Profile_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
+
+![US Undergraduate Enrollment Numbers by Ethnicity in 2018](https://github.com/emilycoplin/emilycoplin.github.io/blob/master/Fall_2019_Institutional_Profile_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
