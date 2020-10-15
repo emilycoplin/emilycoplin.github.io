@@ -58,5 +58,4 @@ This bar chart shows the total percentage of enrolled undergraduate students bas
 
 # Enrollment Percentages by College at Lehigh University
 
-![Enrollment Percentages by College at Lehigh University]
-(
+![Enrollment Percentages by College at Lehigh University](https://github.com/emilycoplin/emilycoplin.github.io/blob/master/Enrollment_Percentages_by_College_at_Lehigh_University_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
