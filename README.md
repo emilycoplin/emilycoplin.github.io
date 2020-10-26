@@ -63,3 +63,7 @@ This bar chart shows the total percentage of enrolled undergraduate students bas
 # 2019 World's Top 20 Cycling Cities
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1XkM31WLlDSdtoD41tRWDlcXYYrHy8p0N" width="640" height="480"></iframe>
+
+# Number of mass shootings in the United States between 1982 and February 2020, by state
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1vvLurY1IOS3E-GXxqZWIL6zlua6znSBJ" width="640" height="480"></iframe>
