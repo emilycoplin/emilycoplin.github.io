@@ -66,4 +66,6 @@ This bar chart shows the total percentage of enrolled undergraduate students bas
 
 # Number of mass shootings in the United States between 1982 and February 2020, by state
 
+This map shows the ranking of states in the United States with the highest number of massing shootings, since the year 1982 up until February 2020. It shows that California is the highest state with a total of 20 mass shootings, while several states are at the lowest with only 1.
+
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1vvLurY1IOS3E-GXxqZWIL6zlua6znSBJ" width="640" height="480"></iframe>
