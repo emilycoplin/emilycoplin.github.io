@@ -6,7 +6,7 @@
 
 My name is Emily Coplin and I am a first year student in the College of Arts and Sciences at Lehigh University.
 
-I grew up in Newark, New Jersey and I have lived here all my life. Although I love New Jersey and my community, I have big dreams to travel the world and explore different cultures and my ultimate goal is to travel to Italy. When I am not in school, some of my hobbies include painting and listening to music. I also enjoy spending time with my family and friends on the weekends.
+I grew up in Newark, New Jersey and I have lived here all my life. Although I love New Jersey and my community, I have big dreams to travel the world and explore different cultures and my ultimate goal is to travel to Italy. When I am not in school, some of my hobbies include painting and listening to music. I also enjoy spending time with my family and friends on the weekends. For my first semester at Lehigh, I chose to take Data Journalism because I took a Statistics class in high school, so I wanted to use this knowledge and apply it to writing data stories.
 
 ## Work Experience!
 
@@ -32,11 +32,11 @@ This infographic shows the amount of first year students within each college fro
 
 # Percent of Adults Aged 18 Years and Older Who Have Obesity in the U.S.
 
-This inforgraphic shows the total percentage of adults from the age of 18 and over, who are obese, starting from the year 2011 up until the year 2018. This information comes from the Behavioral Risk Factor Surveillance System, part of the Center for Disease Control and Prevention. The data demonstrates a steady increase in the obesity rate among adults. This increase in obesity rates among adults, could be a result of the increase in fast food restaurants around the nation, that ultimately encurages the consumption of fatty and unhealthy foods, demonstrating a possible correlational relationship between the two.
+This inforgraphic shows the total percentage of adults from the age of 18 and over, who are obese, starting from the year 2011 up until the year 2018. This information comes from the Behavioral Risk Factor Surveillance System, part of the Center for Disease Control and Prevention. The data demonstrates a steady increase in the obesity rate among adults, with obesity being defined as the condition of abnormal fat accumulation that presents a risk to one's health. This increase in obesity rates among adults, could be a result of the increase in fast food restaurants around the nation, that ultimately encourages the consumption of fatty and unhealthy foods, demonstrating a possible correlational relationship between the two.
 
 ![Percent of Adults Aged 18 Years and Older Who Have Obesity in the U.S.](https://github.com/emilycoplin/emilycoplin.github.io/blob/master/Percent%20of%20Adults%20Aged%2018%20Years%20and%20Older%20Who%20Have%20Obesity.png?raw=true)
 
-[Source](https://nccd.cdc.gov/dnpao_dtm/rdDownload/rdExport-b5b9d902-a61b-4b31-8e38-10fb1d85baac/Export.pdf)
+[Source](https://nccd.cdc.gov/dnpao_dtm/rdDownload/rdExport-ebcedab6-3a6e-4432-82bd-777e2bda7b06/Export.pdf)
 
 # Lehigh - Lafayette Rivalry
 
