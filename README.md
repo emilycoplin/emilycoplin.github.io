@@ -22,14 +22,6 @@ I also took a total of nine advanced placement classes and explored many options
 
 ![](https://github.com/emilycoplin/emilycoplin.github.io/blob/master/instagram.jpeg?raw=true) [My Instagram](https://www.instagram.com/ylimeeeeeee/)
 
-# Student Enrollment at Lehigh University
-
-This infographic shows the amount of first year students within each college from the Office of Institutional Research & Strategic Analysis. Based on the data, the college with the greatest amount of students is the College of Arts & Sciences, while the one with the lowest amount of students is Arts/ Engineering.
-
-![Student Enrollment At Lehigh](https://github.com/emilycoplin/emilycoplin.github.io/blob/master/Student%20Enrollment%20At%20Lehigh.png?raw=true)
-
-[Source](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
-
 # Percent of Adults Aged 18 Years and Older Who Have Obesity in the U.S.
 
 This inforgraphic shows the total percentage of adults from the age of 18 and over, who are obese, starting from the year 2011 up until the year 2018. This information comes from the Behavioral Risk Factor Surveillance System, part of the Center for Disease Control and Prevention. The data demonstrates a steady increase in the obesity rate among adults, with obesity being defined as the condition of abnormal fat accumulation that presents a risk to one's health. This increase in obesity rates among adults, could be a result of the increase in fast food restaurants around the nation, that ultimately encourages the consumption of fatty and unhealthy foods, demonstrating a possible correlational relationship between the two.
