@@ -30,17 +30,9 @@ This inforgraphic shows the total percentage of adults from the age of 18 and ov
 
 [Source](https://nccd.cdc.gov/dnpao_dtm/rdDownload/rdExport-ebcedab6-3a6e-4432-82bd-777e2bda7b06/Export.pdf)
 
-# Lehigh - Lafayette Rivalry
-
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1BKHMZEpmxYJ2EvUEbFQJEzIwZMGA0INuNs19kABLUqo&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-
 # The Life of Selena
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1paPXmq14sgPYrpbQbDC-TreNpOqX9fgXKokm7nTpDwk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-
-# Fall 2019 Institutional Profile
-
-![Fall 2019 Institutional Profile](https://github.com/emilycoplin/emilycoplin.github.io/blob/master/Fall_2019_Institutional_Profile_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
 
 # US Undergraduate Enrollment Numbers by Ethnicity in 2018
 
@@ -48,19 +40,11 @@ This bar chart shows the total percentage of enrolled undergraduate students bas
 
 ![US Undergraduate Enrollment Numbers by Ethnicity in 2018](https://github.com/emilycoplin/emilycoplin.github.io/blob/master/US_Undergraduate_Enrollment_Numbers_by_Ethnicity_in_2018_Percent_Enrolled_chartbuilder.png?raw=true)
 
-# Enrollment Percentages by College at Lehigh University
-
-![Enrollment Percentages by College at Lehigh University](https://github.com/emilycoplin/emilycoplin.github.io/blob/master/Enrollment_Percentages_by_College_at_Lehigh_University_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
-
 # Nationwide seat belt use rate in the United States from 2009 to 2019
 
 This line chart shows the seat belt use rate in the United States through the years, starting from 2009 to 2019. The data shows that there has been a general increase in seat belt use, and could be due to higher reinforcements of seat belt policies, causing more people to wear them in order to avoid consequences.
 
 ![Nationwide seat belt use rate in the United States from 2009 to 2019](https://github.com/emilycoplin/emilycoplin.github.io/blob/master/Nationwide_seat_belt_use_rate_in_the_United_States_from_2009_to_2019_Seat_Belt_Use_Rate_chartbuilder.png?raw=true)
-
-# 2019 World's Top 20 Cycling Cities
-
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1XkM31WLlDSdtoD41tRWDlcXYYrHy8p0N" width="640" height="480"></iframe>
 
 # Number of mass shootings in the United States between 1982 and February 2020, by state
 
