@@ -36,13 +36,13 @@ This inforgraphic shows the total percentage of adults from the age of 18 and ov
 
 # US Undergraduate Enrollment Numbers by Ethnicity in 2018
 
-This bar chart shows the total percentage of enrolled undergraduate students based on ethnicity from the year 2018. This data comes from educationdata.org. Based on this data, we see that a majority of college students are white, while minorities take up a lower percentage. This could be a result of poverty among minority people, who struggle to find the money and opportunities to attend college.
+This bar chart shows the total percentage of enrolled undergraduate students based on ethnicity from the year 2018. This data comes from educationdata.org. Based on this data, we see that a majority of college students are white, while minorities take up a lower percentage. These numbers are proportional to the ethnicity percentages that make up the U.S. population. However, this could also be a result of poverty among minority people, who struggle to find the money and opportunities to attend college, and therefore choose not to.
 
 ![US Undergraduate Enrollment Numbers by Ethnicity in 2018](https://github.com/emilycoplin/emilycoplin.github.io/blob/master/US_Undergraduate_Enrollment_Numbers_by_Ethnicity_in_2018_Percent_Enrolled_chartbuilder.png?raw=true)
 
 # Nationwide seat belt use rate in the United States from 2009 to 2019
 
-This line chart shows the seat belt use rate in the United States through the years, starting from 2009 to 2019. The data shows that there has been a general increase in seat belt use, and could be due to higher reinforcements of seat belt policies, causing more people to wear them in order to avoid consequences.
+This line chart shows the seat belt use rate in the United States through the years, starting from 2009 to 2019. The data shows that there has been a general increase in seat belt use, and could be due to higher reinforcements of seat belt policies, causing more people to wear them in order to avoid consequences. This increase is also proportional to the increase in licensed drivers in the U.S. over the years. And as the roads become more crowded with cars, more people wear there seatbelts to protect themselves during accidents.
 
 ![Nationwide seat belt use rate in the United States from 2009 to 2019](https://github.com/emilycoplin/emilycoplin.github.io/blob/master/Nationwide_seat_belt_use_rate_in_the_United_States_from_2009_to_2019_Seat_Belt_Use_Rate_chartbuilder.png?raw=true)
 
