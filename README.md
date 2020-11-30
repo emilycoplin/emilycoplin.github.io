@@ -36,6 +36,8 @@ This inforgraphic shows the total percentage of adults from the age of 18 and ov
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1paPXmq14sgPYrpbQbDC-TreNpOqX9fgXKokm7nTpDwk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+[Source](https://www.biography.com/musician/selena)
+
 # US Undergraduate Enrollment Numbers by Ethnicity in 2018
 
 This bar chart shows the total percentage of enrolled undergraduate students based on ethnicity from the year 2018. This data comes from educationdata.org. Based on this data, we see that a majority of college students are white, while minorities take up a lower percentage. These numbers are proportional to the ethnicity percentages that make up the U.S. population. However, this could also be a result of poverty among minority people, who struggle to find the money and opportunities to attend college, and therefore choose not to.
