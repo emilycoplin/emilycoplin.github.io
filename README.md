@@ -1,5 +1,7 @@
 # Emily Coplin
 
+![](https://github.com/emilycoplin/emilycoplin.github.io/blob/master/comic.png?raw=true)
+
 ## About Me!
 
 ![](https://github.com/emilycoplin/emilycoplin.github.io/blob/master/mepic.jpg?raw=true)
